@@ -1,5 +1,6 @@
 # TomTom-Backend-Project
-![image](https://github.com/markrichers/TomTom-Backend-Project/assets/50198601/bd100046-b235-4053-bb49-9f0438a76873)
+![Screenshot from 2023-08-25 12-52-22](https://github.com/markrichers/TomTom_Backend_Project/assets/50198601/8cd2d84d-c62a-4333-8cc7-badf4eb9cbe4)
+
 
 1. Supplier Upload Data
 Suppliers initially upload raw data from country/city information to the interface in Figure 15, chapter 5,
