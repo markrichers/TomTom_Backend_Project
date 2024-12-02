@@ -63,6 +63,9 @@ monthly processing related to traffic rules.
 | Lower_limit_motorways     | Lower limit of the acceptable range for the dimension on motorways.             |
 | Allowed_on_motorways      | Indicator if the dimension is allowed on motorways (Yes, No).                   |
 
+## Code to extract data: 
+
+![image](https://github.com/user-attachments/assets/e780343d-aa44-48cd-bf08-6ae5b87dbec8)
 
 
 ### Data Modelling: 
