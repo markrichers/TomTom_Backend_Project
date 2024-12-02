@@ -33,6 +33,37 @@ The findings and suggested improvements from the final cleaned data after proces
 saved to the GRIP Database. This step preserves the data output for any changes in daily updates or
 monthly processing related to traffic rules.
 
+## Data Table: 
+
+# Appendix 1: Table Detail on Columns Traffic
+
+| **Field Name**            | **Description**                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| ID                        | Unique identifier for each record.                                              |
+| Check_id                  | Identifier for the check that was performed.                                    |
+| Status                    | Status of the check (Passed, Failed, etc.).                                     |
+| Fail_meter                | Meter reading when the check failed (if it failed).                             |
+| Start_time                | The time when the check started.                                                |
+| End_time                  | The time when the check ended.                                                  |
+| Processing_time           | The total time it took to perform the check.                                    |
+| Job_ID                    | Identifier for the job associated with the check.                               |
+| Internal_id               | Internal identifier used for system purposes.                                   |
+| Comment                   | Any notes or comments related to the check.                                     |
+| Max_dim                   | Maximum dimension checked.                                                      |
+| Internal_id               | Another internal identifier used for system purposes.                           |
+| Iso_countrycode           | The ISO country code related to the check.                                      |
+| Maxdim1_type              | Type of the first maximum dimension checked.                                    |
+| Maxdim1_value             | Value of the first maximum dimension checked.                                   |
+| Maxdim2_type              | Type of the second maximum dimension checked.                                   |
+| Maxdim2_value             | Value of the second maximum dimension checked.                                  |
+| Country_Code              | Country code where the check was performed.                                     |
+| Dimension_type            | Type of the dimension being checked (Height, Length, Width, etc.).              |
+| Lower_limit               | Lower limit of the acceptable range for the dimension.                          |
+| Upper_limit               | Upper limit of the acceptable range for the dimension.                          |
+| Lower_limit_motorways     | Lower limit of the acceptable range for the dimension on motorways.             |
+| Allowed_on_motorways      | Indicator if the dimension is allowed on motorways (Yes, No).                   |
+
+
 
 ### Data Modelling: 
 
