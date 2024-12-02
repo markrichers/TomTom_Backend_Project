@@ -33,4 +33,29 @@ The findings and suggested improvements from the final cleaned data after proces
 saved to the GRIP Database. This step preserves the data output for any changes in daily updates or
 monthly processing related to traffic rules.
 
-![image](https://github.com/markrichers/TomTom-Backend-Project/assets/50198601/e53cc8b7-0c5d-4650-889c-e06a4a324342)
+
+### Data Modelling: 
+
+![Data Modelling](https://github.com/user-attachments/assets/2e1d2a15-c239-40f1-8b5c-6fa418e314b7)
+
+### Database Frame: 
+
+![GRIP Database](https://github.com/user-attachments/assets/31d1b0bf-b6cc-4e56-a656-12c984f94a64)
+
+### Testing Data Quality: 
+
+![Picture1](https://github.com/user-attachments/assets/5041ef35-b3f4-4240-ba9b-2eef5cef0883)
+
+### Result Outcome:
+
+![DataDashboard](https://github.com/user-attachments/assets/e5b4dd27-8fbd-407d-93fb-6533d578bddd)
+
+### Resutl Outcome 2: 
+
+![Dashboard 2](https://github.com/user-attachments/assets/7c19f673-af87-45f1-8ba7-3ad0e103448a)
+
+
+
+
+
+
