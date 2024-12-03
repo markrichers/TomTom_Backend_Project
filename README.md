@@ -84,7 +84,7 @@ monthly processing related to traffic rules.
 
 ![DataDashboard](https://github.com/user-attachments/assets/e5b4dd27-8fbd-407d-93fb-6533d578bddd)
 
-### Resutl Outcome 2: 
+### Result Outcome 2: 
 
 ![Dashboard 2](https://github.com/user-attachments/assets/7c19f673-af87-45f1-8ba7-3ad0e103448a)
 
