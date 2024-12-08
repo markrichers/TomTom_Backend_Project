@@ -1,4 +1,28 @@
-# TomTom-Backend-Project
+# 🌍 TomTom Backend Project
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/c8e3f127-22b6-4b43-9e98-c9c0861682bf)" alt="TomTom Logo" width="200"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Powering Location Intelligence with Scalable Backend Solutions</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-FastAPI-blue?style=flat-square" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-green?style=flat-square" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License">
+</p>
+
+---
+
+## 🌟 About the Project
+
+The **TomTom Backend Project** is a robust backend solution designed for processing and managing large-scale geospatial data. With a focus on scalability, reliability, and performance, this project integrates advanced technologies to deliver location intelligence services efficiently.
+
 ![Screenshot from 2023-08-25 12-52-22](https://github.com/markrichers/TomTom_Backend_Project/assets/50198601/8cd2d84d-c62a-4333-8cc7-badf4eb9cbe4)
 
 
