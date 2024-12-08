@@ -1,7 +1,7 @@
 # 🌍 TomTom Backend Project
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/c8e3f127-22b6-4b43-9e98-c9c0861682bf)" alt="TomTom Logo" width="200"/>
+  <img src="https://github.com/user-attachments/assets/c8e3f127-22b6-4b43-9e98-c9c0861682bf" alt="TomTom Logo" width="200"/>
 </p>
 
 ---
